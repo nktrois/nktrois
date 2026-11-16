@@ -26,7 +26,7 @@ Generic building blocks from my NAS and Raspberry Pis, independent of my own set
 
 Tools and accessories for astrophotography.
 
-- [muon](https://github.com/nktrois/muon) — framing simulator: your sensor's field on a real sky map · [open the app](https://nktrois.github.io/muon/)
+- [muon-ciel-profond](https://github.com/nktrois/muon-ciel-profond) — deep-sky framing simulator: your sensor's field on a real sky map · [open the app](https://nktrois.github.io/muon-ciel-profond/)
 
 ## Experimental & Creative
 

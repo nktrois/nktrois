@@ -26,7 +26,7 @@ Briques génériques tirées de mon NAS et de mes Raspberry Pi, sans dépendre d
 
 Outils et accessoires pour l'astrophotographie.
 
-- [muon](https://github.com/nktrois/muon) — simulateur de cadrage : le champ de ton capteur sur une vraie carte du ciel · [ouvrir l'appli](https://nktrois.github.io/muon/)
+- [muon-ciel-profond](https://github.com/nktrois/muon-ciel-profond) — simulateur de cadrage ciel profond : le champ de ton capteur sur une vraie carte du ciel · [ouvrir l'appli](https://nktrois.github.io/muon-ciel-profond/)
 
 ## Experimental & Creative
 
