@@ -4,6 +4,14 @@
 
 Doctorant en science des matériaux. Je fabrique aussi des choses : pièces imprimées, électronique, outils pour mon NAS, astro.
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/boo-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/boo-light.svg">
+    <img alt="Boo ASCII animé" src="./assets/boo-light.svg" width="380">
+  </picture>
+</p>
+
 ## Open hardware
 
 Pièces mécaniques et boîtiers imprimables, avec leurs sources OpenSCAD.

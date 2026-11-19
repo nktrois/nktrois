@@ -4,6 +4,14 @@
 
 PhD student in materials science. I also build things: 3D-printed parts, electronics, tools for my home server, astronomy gear.
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/boo-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/boo-light.svg">
+    <img alt="Animated ASCII Boo" src="./assets/boo-light.svg" width="380">
+  </picture>
+</p>
+
 ## Open hardware
 
 Printable mechanical parts and enclosures, with their OpenSCAD sources.
