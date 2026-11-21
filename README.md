@@ -14,15 +14,17 @@ PhD student in materials science. I also build things: 3D-printed parts, electro
 
 ## Open hardware
 
-Printable mechanical parts and enclosures, with their OpenSCAD sources.
+3D-printable parts for the workshop and laboratory, with STL files and editable CAD sources.
 
-- [cad-parts](https://github.com/nktrois/cad-parts) — small parts designed for a specific need
+- [cad-parts](https://github.com/nktrois/cad-parts) — mechanical parts, workshop accessories and laboratory tools
 
-## Scientific Python Tools
+## Scientific tools & laboratory accessories
 
-Image and data analysis tools for materials science.
+Tools for materials science: image and data analysis, plus laboratory accessories that can be 3D-printed.
 
-*Coming soon.*
+For printable racks, stands, vessels and filtration parts, see [cad-parts](https://github.com/nktrois/cad-parts).
+
+*Python analysis tools are in preparation.*
 
 ## Homelab & Local AI
 

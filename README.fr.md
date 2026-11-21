@@ -14,15 +14,17 @@ Doctorant en science des matériaux. Je fabrique aussi des choses : pièces impr
 
 ## Open hardware
 
-Pièces mécaniques et boîtiers imprimables, avec leurs sources OpenSCAD.
+Pièces imprimables en 3D pour l'atelier et le laboratoire, avec les STL et les sources CAO modifiables.
 
-- [cad-parts](https://github.com/nktrois/cad-parts) — petites pièces dessinées pour un besoin précis
+- [cad-parts](https://github.com/nktrois/cad-parts) — pièces mécaniques, accessoires d'atelier et outils de laboratoire
 
-## Scientific Python Tools
+## Outils scientifiques et accessoires de laboratoire
 
-Outils d'analyse d'images et de données pour la science des matériaux.
+Outils pour la science des matériaux : analyse d'images et de données, et accessoires de laboratoire imprimables en 3D.
 
-*En préparation.*
+Pour les portoirs, supports, récipients et pièces de filtration à imprimer, voir [cad-parts](https://github.com/nktrois/cad-parts).
+
+*Les outils Python d'analyse sont en préparation.*
 
 ## Homelab & Local AI
 
