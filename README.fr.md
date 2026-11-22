@@ -2,9 +2,9 @@
 
 *[English](README.md) · Français*
 
-Doctorant en science des matériaux, spécialisé en métallurgie.
+Doctorant en science des matériaux, je travaille principalement en métallurgie.
 
-En dehors de ma recherche, l’ingénierie est surtout un loisir. J’aime comprendre comment les choses fonctionnent et explorer différents domaines : impression 3D, électronique, informatique, astronomie, ou simplement ce qui éveille ma curiosité. Je fabrique des choses principalement pour apprendre et m’amuser, puis je partage ces projets ici : s’ils peuvent être utiles à d’autres, tant mieux.
+À côté, j’aime bricoler et explorer ce qui m’intrigue : impression 3D, électronique, code, astronomie… Je fais ces projets surtout pour apprendre et m’amuser. Je les partage ici en espérant qu’ils puissent être utiles à d’autres.
 
 <p align="center">
   <picture>

@@ -2,9 +2,9 @@
 
 *English · [Français](README.fr.md)*
 
-PhD student in materials science, with a focus on metallurgy.
+PhD student in materials science, focusing on metallurgy.
 
-Outside my research, engineering is mostly a hobby for me. I like figuring out how things work and exploring different fields: 3D printing, electronics, software, astronomy, and whatever else catches my interest. I build things mainly to learn and have fun, and share these projects here in case they’re useful to someone else.
+In my free time, I like to tinker and explore whatever catches my interest: 3D printing, electronics, coding, astronomy… I work on these projects mostly to learn and have fun. I share them here in the hope that they’ll be useful to others.
 
 <p align="center">
   <picture>
