@@ -2,7 +2,9 @@
 
 *English · [Français](README.fr.md)*
 
-PhD student in materials science. I also build things: 3D-printed parts, electronics, tools for my home server, astronomy gear.
+PhD student in materials science, with a focus on metallurgy.
+
+Outside my research, engineering is mostly a hobby for me. I like figuring out how things work and exploring different fields: 3D printing, electronics, software, astronomy, and whatever else catches my interest. I build things mainly to learn and have fun, and share these projects here in case they’re useful to someone else.
 
 <p align="center">
   <picture>

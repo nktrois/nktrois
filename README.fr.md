@@ -2,7 +2,9 @@
 
 *[English](README.md) · Français*
 
-Doctorant en science des matériaux. Je fabrique aussi des choses : pièces imprimées, électronique, outils pour mon NAS, astro.
+Doctorant en science des matériaux, spécialisé en métallurgie.
+
+En dehors de ma recherche, l’ingénierie est surtout un loisir. J’aime comprendre comment les choses fonctionnent et explorer différents domaines : impression 3D, électronique, informatique, astronomie, ou simplement ce qui éveille ma curiosité. Je fabrique des choses principalement pour apprendre et m’amuser, puis je partage ces projets ici : s’ils peuvent être utiles à d’autres, tant mieux.
 
 <p align="center">
   <picture>
